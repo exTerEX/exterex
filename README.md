@@ -1,3 +1,5 @@
+<img src=assets/github.png/>
+
 <h1 align="center">Hi 👋, I'm Andreas Sagen</h1>
 <h3 align="center">A molecular toxicologist in Oslo, Norway.</h3>
 
