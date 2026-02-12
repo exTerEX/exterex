@@ -23,15 +23,15 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 
 ## 🧫 Research Focus
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    RESEARCH INTERESTS                        │
-├─────────────────────────────────────────────────────────────┤
-│  🧬 Genetic Transformation    │  📊 Bioinformatics          │
-│  🔄 Competence Regulation     │  🛠️ Lab Automation          │
-│  🦷 Oral Streptococci         │  📈 Data Visualization      │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| Research Interests | | | | |
+| --- | --- | --- | --- | --- |
+| 🧫 Bacterial Signaling  | 🧬 Genetic Transformation | 🧪 Mutagenesis | 💊 Antimicrobial Resistance | 🦷 Oral Streptococci |
+| 🔬 Gene Regulation | 🔄 Competence Regulation | 📐 Structural Biology | 🔧 Synthetic Biology | 🌿 Evolution |
+| 🏭 Biotechnology |🧮 Genomics | 📊 Bioinformatics | 📈 Data Visualization | 🛠️ Lab Automation |
+
+</div>
 
 ---
 
@@ -75,18 +75,6 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 ![Rstudioide](https://img.shields.io/badge/rstudioide-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Googlegemini](https://img.shields.io/badge/googlegemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
 
 </div>
 
