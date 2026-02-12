@@ -25,7 +25,7 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 
 <div align="center">
 
-| Research Interests | | | |
+| | | | |
 | --- | --- | --- | --- |
 | 🧫 Bacterial Signaling  | 🧬 Genetic Transformation | 🧪 Mutagenesis | 💊 Antimicrobial Resistance |
 | 🦷 Oral Streptococci | 🔬 Gene Regulation | 🔄 Competence Regulation | 📐 Structural Biology |
