@@ -10,7 +10,11 @@
 
 ---
 
-## 🔬 About Me
+<div align="center">
+
+## About Me
+
+</div>
 
 I'm a PhD candidate passionate about unraveling the mysteries of bacterial communication, gene regulation and mutagenesis. My research sits at the fascinating intersection of **molecular biology** and **computational approaches**.
 
@@ -21,23 +25,25 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 
 ---
 
-## 🧫 Research Focus
-
 <div align="center">
 
-| | | | |
-| --- | --- | --- | --- |
-| 🧫 Bacterial Signaling  | 🧬 Genetic Transformation | 🧪 Mutagenesis | 💊 Antimicrobial Resistance |
-| 🦷 Oral Streptococci | 🔬 Gene Regulation | 🔄 Competence Regulation | 📐 Structural Biology |
-| 🔧 Synthetic Biology | 🌿 Evolution | 🏭 Biotechnology |🧮 Genomics |
+## 🔬 Research Focus
+
+| Focus | Description |
+| --- | --- |
+| 🧫 Bacterial Signaling | Quorum sensing and peptide-mediated communication in microbial communities |
+| 🧬 Genetic Transformation | Mechanisms of horizontal gene transfer and DNA uptake in bacteria |
+| 🧪 Mutagenesis | Studying mutation pathways and their role in bacterial adaptation |
+| 💊 Antimicrobial Resistance | Understand the relative weight of each adaptation mechanism's role in AMR propagation |
+| 🦷 Oral Streptococci | Streptococci is a commensal pathogenic bacteria with rising frequency of AMR caused by its adaptability by both genetic transformation and mutagenesis |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -80,7 +86,11 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 
 ---
 
+<div align="center">
+
 ## 🌱 Current Goals
+
+</div>
 
 - 📝 Complete and defend my PhD thesis
 - 🚀 Develop open-source tools for microbiology research
