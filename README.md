@@ -25,11 +25,11 @@ I'm a PhD candidate passionate about unraveling the mysteries of bacterial commu
 
 <div align="center">
 
-| Research Interests | | | | |
-| --- | --- | --- | --- | --- |
-| 🧫 Bacterial Signaling  | 🧬 Genetic Transformation | 🧪 Mutagenesis | 💊 Antimicrobial Resistance | 🦷 Oral Streptococci |
-| 🔬 Gene Regulation | 🔄 Competence Regulation | 📐 Structural Biology | 🔧 Synthetic Biology | 🌿 Evolution |
-| 🏭 Biotechnology |🧮 Genomics | 📊 Bioinformatics | 📈 Data Visualization | 🛠️ Lab Automation |
+| Research Interests | | | |
+| --- | --- | --- | --- |
+| 🧫 Bacterial Signaling  | 🧬 Genetic Transformation | 🧪 Mutagenesis | 💊 Antimicrobial Resistance |
+| 🦷 Oral Streptococci | 🔬 Gene Regulation | 🔄 Competence Regulation | 📐 Structural Biology |
+| 🔧 Synthetic Biology | 🌿 Evolution | 🏭 Biotechnology |🧮 Genomics |
 
 </div>
 
