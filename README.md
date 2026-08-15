@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there! 👋 I'm exterex
+# Hey there! 👋 I'm andreassag
 
 ### 🧬 PhD Researcher in Molecular Microbiology
 
-[![GitHub followers](https://img.shields.io/github/followers/exterex?style=social)](https://github.com/exterex)
+[![GitHub followers](https://img.shields.io/github/followers/andreassag?style=social)](https://github.com/andreassag)
 
 </div>
 
